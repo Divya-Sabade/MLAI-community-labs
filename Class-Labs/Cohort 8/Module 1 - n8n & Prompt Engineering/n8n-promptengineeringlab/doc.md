@@ -316,9 +316,9 @@ Let's put our prompt engineering knowledge into practice by building an AI-power
 ### Prerequisites
 
 Before starting, ensure you have:
-- [ ] Access to n8n dashboard (cloud or self-hosted)
-- [ ] OpenAI API key with available credits
-- [ ] Downloaded the n8n workflow file from the prerequisites section
+- Access to n8n dashboard (cloud or self-hosted)
+- OpenAI API key with available credits
+- Downloaded the n8n workflow file from the prerequisites section : [Click Here](https://pragyaallc-my.sharepoint.com/:u:/g/personal/sachin_parmar_legalgraph_ai/IQDmJZM9ENBLSoIVnpVNOy6xATmr02N8x_2_fOR7sr8-UqY?e=9gj3xY)
 
 ---
 
