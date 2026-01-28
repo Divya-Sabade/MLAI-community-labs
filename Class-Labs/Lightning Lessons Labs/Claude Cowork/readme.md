@@ -1,4 +1,4 @@
-```md
+
 # Claude Cowork — Lightning Lessons
 
 ![Cowork processing](images/banner.png)
@@ -50,4 +50,4 @@ Hands-on labs for **Claude Cowork**: set up the desktop app, run product-managem
 
 - **[Creating a dashboard](Module%202%20:%20Creating-Visualizer/creating-dashboard.md)**  
   Use Cowork and the browser extension to build a YouTube progress dashboard: provide channel + goal, and get a visual dashboard with progress bar and stats.
-```
+
