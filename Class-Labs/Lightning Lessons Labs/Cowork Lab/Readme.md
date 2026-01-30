@@ -385,3 +385,19 @@ You've completed the full story in three parts:
 *Happy job hunting.*
 
 ---
+
+### Limitations
+
+Cowork is a research preview. Current limitations:
+
+| Limitation | Details |
+| ---------- | ------- |
+| **Mac only** | Windows coming soon |
+| **One folder at a time** | Can't access multiple locations simultaneously |
+| **No Projects** | Unlike Claude chat, no saved project contexts |
+| **No memory across sessions** | Starts fresh each time |
+| **No session sharing** | Can't share with others |
+| **No cross-device sync** | Local to your machine |
+| **Connectors unreliable** | File system + Chrome + web search work best. Gmail, Calendar, etc. are hit or miss. |
+
+---
